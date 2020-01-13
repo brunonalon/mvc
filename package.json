@@ -1,0 +1,21 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "Node.js MVC sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mvc",
+    "node"
+  ],
+  "author": {
+    "name": "Bruno Nalon Amaral",
+    "email": "brunonalon2@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
